@@ -139,7 +139,7 @@ O projeto foi conduzido com base na metodologia ágil **Scrum adaptado**, organi
 
 ```
 taskflow/
-├── index.html        # Aplicação completa
+├── sistema_web.html        # Aplicação completa
 ├── DOCUMENTACAO.md   # Este arquivo
 └── README.md         # Instruções de uso
 ```
