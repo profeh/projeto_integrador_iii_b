@@ -5,7 +5,7 @@ Sistema web desenvolvido como projeto extensionista em parceria com a M&A Soluç
 ## Como usar
 
 1. Abra `sistema_web.html` no navegador
-2. Login: `admin@masf.com` / `123456`
+2. Login: `admin@masf.com.br` / `123456`
 
 ## Funcionalidades
 
