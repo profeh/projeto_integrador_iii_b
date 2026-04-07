@@ -138,8 +138,8 @@ O projeto foi conduzido com base na metodologia ágil **Scrum adaptado**, organi
 ## 4. Estrutura do Repositório
 
 ```
-taskflow/
-├── sistema_web.html        # Aplicação completa
+main/
+├── sistema_web.html  # Aplicação completa
 ├── DOCUMENTACAO.md   # Este arquivo
 └── README.md         # Instruções de uso
 ```
