@@ -67,7 +67,7 @@ O projeto foi conduzido com base na metodologia ágil **Scrum adaptado**, organi
 | Figma | Prototipação das telas |
 | Google Meet | Reuniões com o parceiro |
 
-**Link do quadro Trello:** *[(substituir pelo link real após criação)](https://trello.com/invite/b/69d45e8c3811db4734980f92/ATTIde185d6adaa00c921a5de7e7e03178bb10E377A2/taskflow-ma-solucoes-financeiras)*
+**Link do quadro Trello:** *[(Clique aqui para ir para a página)](https://trello.com/invite/b/69d45e8c3811db4734980f92/ATTIde185d6adaa00c921a5de7e7e03178bb10E377A2/taskflow-ma-solucoes-financeiras)*
 
 ### 2.3 Sprints do Projeto
 
