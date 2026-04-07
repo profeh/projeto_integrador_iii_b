@@ -148,7 +148,7 @@ taskflow/
 
 ## 5. Instruções de Uso
 
-1. Abra `index.html` em qualquer navegador moderno;
+1. Abra `sistema_web.html` em qualquer navegador moderno;
 2. Login: `admin@masf.com.br` / `123456`;
 3. Explore o Dashboard, Kanban, Tarefas e Calendário;
 4. Crie novas campanhas e tarefas pelos botões no canto superior direito.
